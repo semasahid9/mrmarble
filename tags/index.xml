@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Alvaro Tinoco · Landing Page</title>
-    <link>https://mrmarble.dev/tags/</link>
-    <description>Recent content in Tags on Alvaro Tinoco · Landing Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://mrmarble.dev/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Alvaro Tinoco</title><link>https://mrmarble.github.io/tags/</link><description>Recent content in Tags on Alvaro Tinoco</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://mrmarble.github.io/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
